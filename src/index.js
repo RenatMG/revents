@@ -7,20 +7,16 @@ import * as serviceWorker from './serviceWorker';
 
 const rootElement = document.getElementById('root')
 
-const render = () =>{
-ReactDOM.render( <React.StrictMode>
-  <App />
-</React.StrictMode>, rootElement)
+const render = () => {
+    ReactDOM.render(<App/>, rootElement)
 }
 
 
-
-if(module.hot){
-  module.hot.accept('./app/layout/App', () =>{
-    setTimeout(render)
-  })
+if (module.hot) {
+    module.hot.accept('./app/layout/App', () => {
+        setTimeout(render)
+    })
 }
-
 
 
 render()
