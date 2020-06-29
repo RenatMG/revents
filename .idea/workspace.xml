@@ -2,95 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="062651a6-f5a6-4fe6-8f90-0051e0661f28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/util/reducerUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/store/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/testarea/TestComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/testarea/testActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/testarea/testConstans.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/testarea/testReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/nav/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/nav/NavBar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/App.js" />
-      </list>
-    </option>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1913" />
-    <option name="y" value="126" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectId" id="1dwQcwWgMXzpjKSqI8KhIiauBvo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="revents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="revents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="revents" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="E:\reactProjects\revents\node_modules\eslint" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\reactProjects\revents\src\images" />
+      <recent name="E:\reactProjects\revents\public\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\reactProjects\revents\src\features\user" />
+      <recent name="E:\reactProjects\revents\src\features\event" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -118,52 +112,61 @@
       <option name="presentableId" value="Default" />
       <updated>1592140608250</updated>
       <workItem from="1592140610803" duration="2244000" />
+      <workItem from="1592201743510" duration="6696000" />
+      <workItem from="1592288647563" duration="696000" />
+      <workItem from="1592377841566" duration="8860000" />
+      <workItem from="1592631446172" duration="10685000" />
+      <workItem from="1592812631316" duration="2319000" />
+      <workItem from="1593033116690" duration="596000" />
+      <workItem from="1593200717080" duration="12183000" />
+      <workItem from="1593333777046" duration="842000" />
+      <workItem from="1593335927203" duration="7683000" />
+      <workItem from="1593347076806" duration="110000" />
+      <workItem from="1593347216403" duration="3235000" />
+      <workItem from="1593420969060" duration="7453000" />
     </task>
+    <task id="LOCAL-00001" summary="End of section 6">
+      <created>1593344877434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593344877434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2244000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1913" y="126" width="974" height="1047" extended-state="1" />
-    <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20787746" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="RNConsole" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="End of section 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of section 6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2626" y="436" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593432233852">
+      <screen x="1920" y="126" width="1920" height="1040" />
+    </state>
+    <state x="2626" y="436" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.126.1920.1040@1920.126.1920.1040" timestamp="1593432233852" />
+    <state x="573" y="28" key="CommitChangelistDialog2" timestamp="1593344874372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="28" key="CommitChangelistDialog2/0.0.1920.1040/1920.126.1920.1040@0.0.1920.1040" timestamp="1593344874372" />
+    <state x="2842" y="325" width="998" height="708" key="SettingsEditor" timestamp="1593349255862">
+      <screen x="1920" y="126" width="1920" height="1040" />
+    </state>
+    <state x="722" y="107" key="SettingsEditor/0.0.1920.1040/1920.126.1920.1040@0.0.1920.1040" timestamp="1593347194457" />
+    <state x="2842" y="325" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.126.1920.1040@1920.126.1920.1040" timestamp="1593349255862" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1593345059053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.126.1920.1040@0.0.1920.1040" timestamp="1593345059053" />
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1593347082779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.126.1920.1040@0.0.1920.1040" timestamp="1593347082779" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593343155769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.126.1920.1040@0.0.1920.1040" timestamp="1593343155769" />
   </component>
 </project>
